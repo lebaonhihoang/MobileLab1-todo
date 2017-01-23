@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_task">add</string>
+    <string name="edit_task">edit</string>
+
+    <string name="description">Enter task description:</string>
+    <string name="done">Done</string>
+    <string name="title_activity_task_description">TaskDescriptionActivity</string>
+
+</resources>
